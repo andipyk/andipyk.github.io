@@ -2,7 +2,7 @@ var tanya = true;
 
 while (tanya) {
     // 1. menangkap pilihan player
-    var Org = prompt('masukan pilihan tuan');
+    var Org = prompt('masukan pilihan tuan \n semut/gajah/orang');
 
     // 2. menangkap pilihan computer
     // 3. membangkitkan bilangan Random
